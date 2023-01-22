@@ -5,7 +5,7 @@ from googletrans import Translator
 from utils import BOT_TOKEN
 
 translator = Translator()
-API_TOKEN = BOT_TOKEN
+API_TOKEN = "5724704762:AAHT6niDncSl-MeNjLHFZrfgQqFcd3lmSk0"
 
 # Initialize bot and dispatcher
 bot = Bot(token=API_TOKEN)
