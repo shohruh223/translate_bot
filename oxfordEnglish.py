@@ -3,8 +3,8 @@ from pprint import pprint as print
 
 from utils import APP_ID, APP_KEY
 #
-app_id = "96df4144"
-app_key = "78e49aa94dce46586efc35710d6ffee3"
+app_id = APP_ID
+app_key = APP_KEY
 language = "en-gb"
 
 word_id = "orange"
